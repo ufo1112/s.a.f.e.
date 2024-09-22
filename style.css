@@ -1,0 +1,21 @@
+/* style.css */
+body {
+    background-color: #0E1117;
+}
+
+h1 {
+    color: #FFFFFF;
+}
+
+.sidebar .sidebar-content {
+    background-color: #161B22;
+}
+
+.stButton>button {
+    background-color: #1F6FE5;
+    color: white;
+}
+
+.stProgress .st-bo {
+    background-color: #1F6FE5;
+}
