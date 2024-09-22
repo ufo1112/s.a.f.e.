@@ -1,5 +1,5 @@
 
-# YOLO Object Detection App
+# S.A.F.E.
 
 This Streamlit application allows users to upload videos and perform real-time object detection using a YOLO model. It specifically detects safety equipment such as Mask, Safety Vest, and Hardhat, providing live feedback on their presence.
 
